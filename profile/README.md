@@ -1,4 +1,5 @@
-<p align="center"><a href="https://github.com/alphavel/alphavel" target="_blank"><img src="./logo.png" width="400" alt="Alphavel Logo"></a></p>
+<p align="center"><a href="https://github.com/alphavel/alphavel" target="_blank"><img src="./logo.png" width="160" alt="Alphavel Logo"></a><h1 align="center">Alphavel</h1></p>
+
 
 <p align="center">
 <a href="https://packagist.org/packages/alphavel/alphavel"><img src="https://img.shields.io/packagist/v/alphavel/alphavel" alt="Latest Stable Version"></a>
