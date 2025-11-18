@@ -2,10 +2,10 @@
 
 
 <p align="center">
-<a href="https://packagist.org/packages/alphavel/core"><img src="https://img.shields.io/packagist/v/alphavel/core" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/alphavel/core"><img src="https://img.shields.io/packagist/dt/alphavel/core" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/alphavel/core"><img src="https://img.shields.io/packagist/l/alphavel/core" alt="License"></a>
-<a href="https://packagist.org/packages/alphavel/core"><img src="https://img.shields.io/packagist/php-v/alphavel/core" alt="PHP Version"></a>
+<a href="https://packagist.org/packages/alphavel/core"><img src="https://img.shields.io/packagist/v/alphavel/alphavel" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/alphavel/core"><img src="https://img.shields.io/packagist/dt/alphavel/alphavel" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/alphavel/core"><img src="https://img.shields.io/packagist/l/alphavel/alphavel" alt="License"></a>
+<a href="https://packagist.org/packages/alphavel/core"><img src="https://img.shields.io/packagist/php-v/alphavel/alphavel" alt="PHP Version"></a>
 </p>
 
 ## About Alphavel
