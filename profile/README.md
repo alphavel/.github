@@ -1,13 +1,5 @@
 <p align="center"><a href="https://github.com/alphavel/alphavel" target="_blank"><img src="./logo.png" width="160" alt="Alphavel Logo"></a><h1 align="center">Alphavel</h1></p>
 
-
-<p align="center">
-<a href="https://packagist.org/packages/alphavel/core"><img src="https://img.shields.io/packagist/v/alphavel/alphavel" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/alphavel/core"><img src="https://img.shields.io/packagist/dt/alphavel/alphavel" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/alphavel/core"><img src="https://img.shields.io/packagist/l/alphavel/alphavel" alt="License"></a>
-<a href="https://packagist.org/packages/alphavel/core"><img src="https://img.shields.io/packagist/php-v/alphavel/alphavel" alt="PHP Version"></a>
-</p>
-
 ## About Alphavel
 
 Alphavel is a high-performance PHP framework built on top of Swoole, designed for developers who demand speed without sacrificing elegant syntax. We believe that building modern web applications should be fast, efficient, and enjoyable. Alphavel achieves exceptional performance while maintaining a developer-friendly API similar to Laravel:
